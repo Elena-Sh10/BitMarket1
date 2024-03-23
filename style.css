@@ -73,12 +73,12 @@ article {
 
 footer {
     background-color: #372F85;
-    padding: ;
+    padding: 5px;
     display: flex;
 }
 
 footer a {
-    margin-right: ;
+    margin-right: 10px;
     display: block;
 }
 
